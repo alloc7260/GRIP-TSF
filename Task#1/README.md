@@ -14,3 +14,6 @@ Dataset Used - http://bit.ly/w-data
 
 
 Predicted score if a student studies for 9.25 hrs/day is 93.69173248737535
+
+
+YouTube Video - https://youtu.be/8Y1akGdONfo
