@@ -8,3 +8,6 @@ Dataset Used - Iris.csv
 
 
 From the given 'Iris' dataset, predict the optimum number of clusters and represent it visually.
+
+
+YouTube Video - https://youtu.be/0TFiQ4ab6gs
